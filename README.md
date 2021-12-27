@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ken-bekov
-- 🌱 I’m currently learning how to write reliable software with a good architecture which meets user requirements
+- 🌱 Over 10 years I learn how to write reliable software with a good architecture which meets user requirements
 - 📫 ken.bekov@gmail.com
 
 <!---
